@@ -1,0 +1,56 @@
+    
+    .gauche{
+        margin-top: 20px; 
+        width: 30%;
+        height: 500px;
+        background-color: rgb(65, 0, 0);
+        display: inline-block;
+        overflow: hidden;
+
+
+    }
+
+    .droite{
+        width: 60%;
+        height: 500px;
+        background-color: #333;
+        display: inline-block;
+        margin-left: -20px;
+        overflow: hidden;
+
+
+
+    }
+    body{
+    background-color: gold;
+}
+h4{
+    text-align: center;
+    color: darkgoldenrod;
+}
+span{
+    color: beige;
+    text-align: center;
+
+
+}
+.title{
+    margin-top: 60px; 
+
+}
+label{
+    color: white;
+    margin-left: 25px;
+}
+input{
+    margin-left: 25px;
+
+}
+textarea{
+    margin-left: 25px;
+
+}
+/* contactform-205d2 */
+button{
+    margin-left: 25px;
+}
